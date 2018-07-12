@@ -1,0 +1,17 @@
+
+ {
+
+  "sentences": [
+    {
+      "prompt": "The area of a rectangle is length x width",
+      "choices": ["True","False"],
+      "ans":0
+    },
+    {
+      "prompt":"The area of a circle is length x width",
+      "choices": ["True","False"],
+      "ans":0
+    }
+
+  ]
+}
